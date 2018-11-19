@@ -177,11 +177,9 @@ images/cursors/touch.png
 images/cursors/touch-active@2x.png
 images/cursors/touch-active.png
 design/images/xh9xC5xy5iec3zfc5CPAurCDbVA.jpg
-design/images/wGnNu7inV1D6V9NYb1dpmQxeY.png
 design/images/v5DfnfTNxpdoAsK1iVR42EhdCY.png
 design/images/n2u5UAdcRe4h8PPjZUjh1waM138.jpg
 design/images/ROocV7Q1D3yvd52uoMB7BkcxfF8.jpg
-design/images/Nx1HhbbIs9ZiiMtJm9OCPrQw.png
 design/images/NIJHIWekNRkcoGyxRmu22kuRvmA.jpg
 design/images/J6Vx4E7TMoi0TehKYwLkr4B2xg.jpg
 design/images/Hoq46nfBEo1r4nkg1YtHGMjQy0.jpg
